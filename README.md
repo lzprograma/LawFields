@@ -25,14 +25,14 @@ RegimeConditionDynamic BehaviorFluid$\Delta \lambda \cdot A > \kappa$Smooth tran
 🛠️ Repository Structure
 Plaintext
 .
-├── simulator.py        # Complete source code (OARA-3 Engine, Linear Algebra, and CLI)
+├── simulator.py        # Complete code (OARA-3 Engine, Linear Algebra, and CLI)
 └── README.md           # Technical and scientific documentation for the project
 🚀 How to Run
 Since it uses only standard Python libraries, it runs immediately in any environment.
 1. Clone the repository
 Bash
-git clone https://github.com/usuario/oara3-simulator.git
-cd oara3-simulator
+git clone https://github.com/lzprograma/LawFields.git
+cd LawFields
 2. Run the simulator
 Bash
 python simulator.py
